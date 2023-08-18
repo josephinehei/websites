@@ -1,0 +1,20 @@
+body{ width: 100%; height: 100vh; margin: 10px; background-color: rgb(177, 156, 217); color: white; font-family: sans-serif; font-weight: 400;}
+
+h1{ font-weight: 400; line-height: 1.2;}
+p{ font-style: italic; font-size: 1.125rem;}
+
+h1, p{ margin: 0 0.5rem 1rem 1rem; text-align: center;}
+
+label{ display: block; align-items: center; font-size: 1.125rem; margin: 0 1rem;}
+
+input, select, textarea{margin:10px 0 0 0; font-family: inherit; font-size: inherit; line-height: inherit;width: 100%; min-height: 2em;}
+
+fieldset{border: none; padding: 2rem 0; margin: 1rem; background-color: rgba(19, 12, 37, 60%)}
+
+.inline{ width: unset; margin: 0 0.5rem 0 0; vertical-align: middle;}
+
+input[type="submit"]{ display: block; width: 92%; margin: 10px 1rem; margin-right: 2rem; height: 2em; font-size: 1.1rem; background-color: rgb(31,198,0); border-color: none;}
+
+input[type="checkbox"]{margin: 0;}
+
+.header{margin-top: 2rem;}
